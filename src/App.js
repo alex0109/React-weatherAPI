@@ -1,7 +1,7 @@
 import React from 'react';
 import Form from './component/Form';
 
-const api = 'ab1f82573e4aeaa664a1c2118a4f0b24';
+const api = 'your token';
 
 class App extends React.Component {
   constructor(props) {
